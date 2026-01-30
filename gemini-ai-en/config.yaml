@@ -2,7 +2,7 @@ name: AI Automation Generator (English)
 version: "3.0.0"
 slug: gemini-ai-en
 description: Generate Home Assistant automations with Google Gemini AI - English Version
-url: https://github.com/ago19800/AI-Automation-Generator-Google-Gemini-
+url: https://github.com/ago19800/gemini-ai-en
 arch:
   - armhf
   - armv7
