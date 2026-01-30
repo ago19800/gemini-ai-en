@@ -110,7 +110,7 @@
 3. Click **Repositories**
 4. Add this URL:
    ```
-   https://github.com/ago1980/https://github.com/ago19800/gemini-ai-en
+   https://github.com/ago19800/gemini-ai-en
    ```
 5. Click **ADD**
 
