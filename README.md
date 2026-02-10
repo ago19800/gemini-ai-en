@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ago1980-blue?logo=github)](https://github.com/ago1980)
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Addon-blue?logo=homeassistant)](https://www.home-assistant.io/)
-[![Version](https://img.shields.io/badge/version-3.0.0-green.svg)](https://github.com/ago19800/gemini-ai-en)
+[![Version](https://img.shields.io/badge/version-3.0.1-green.svg)](https://github.com/ago19800/gemini-ai-en)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > **Generate Home Assistant automations with Google Gemini AI!**  
@@ -12,17 +12,29 @@
 
 <div align="center">
 
+## ✨ What’s New 3.0.1
+
+### 🆕 Integrated YAML Editor
+- **💾 Download** automation exports
+- **📝 Manual editing** of the generated YAML code
+- **✏️ Full editor** on the view page
+- **💾 Save changes** and automatically update the graph
+- **🔄 Retest** the modified automation
+
+
+
 ## ☕ Support the Project
 
-**If this addon is useful to you, buy me a coffee!**
+**If this add-on is useful to you, buy me a coffee!**
 
 [![PayPal](https://img.shields.io/badge/PayPal-Donate%20Now-00457C?logo=paypal&style=for-the-badge)](https://paypal.me/ago19800)
 
 **[paypal.me/ago19800](https://paypal.me/ago19800)**
 
-*Every donation helps me continue to develop and improve this addon!* 🙏
+*Every donation helps me continue developing and improving this add-on!* 🙏
 
 </div>
+
 
 ---
 
